@@ -1,0 +1,76 @@
+{
+  "hash": "0c641ffd",
+  "configHash": "e631fc87",
+  "lockfileHash": "32fa963b",
+  "browserHash": "d03fda90",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "be7aa9a4",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "c45ba612",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "9805a188",
+      "needsInterop": true
+    },
+    "@emailjs/browser": {
+      "src": "../../@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "029c4abc",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "0199fbdc",
+      "needsInterop": true
+    },
+    "react-icons/ai": {
+      "src": "../../react-icons/ai/index.mjs",
+      "file": "react-icons_ai.js",
+      "fileHash": "6db5660b",
+      "needsInterop": false
+    },
+    "react-icons/fa": {
+      "src": "../../react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "25cf464f",
+      "needsInterop": false
+    },
+    "react-scroll": {
+      "src": "../../react-scroll/modules/index.js",
+      "file": "react-scroll.js",
+      "fileHash": "29051ed6",
+      "needsInterop": true
+    },
+    "react-toastify": {
+      "src": "../../react-toastify/dist/react-toastify.esm.mjs",
+      "file": "react-toastify.js",
+      "fileHash": "b7079ef1",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GZ55BCQ2": {
+      "file": "chunk-GZ55BCQ2.js"
+    },
+    "chunk-FD5MZQSX": {
+      "file": "chunk-FD5MZQSX.js"
+    },
+    "chunk-YZZKIYU7": {
+      "file": "chunk-YZZKIYU7.js"
+    },
+    "chunk-LQ2VYIYD": {
+      "file": "chunk-LQ2VYIYD.js"
+    }
+  }
+}
